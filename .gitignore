@@ -1,0 +1,3 @@
+*.csv
+.history/
+.DS_Store
